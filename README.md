@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @babumhenga
-- 👀 I’m interested in We Desighn
+- 👋 Hi, I’m Alex Njogu
+- 👀 I’m interested in Web Desighn
 - 🌱 I’m currently learning HTML
 - thats all for today
+- 
 
 <!---
 babumhenga/babumhenga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
