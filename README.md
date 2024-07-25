@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Njogu
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning JS
 - thats all for today
 - 
 
